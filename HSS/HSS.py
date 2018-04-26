@@ -114,13 +114,3 @@ while True:
                     os.remove(photos_path)
                     count += 1
                     time.sleep(5)
-
-
-
-
-
-
-
-
-        
-        
